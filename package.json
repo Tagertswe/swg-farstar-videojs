@@ -1,0 +1,25 @@
+{
+  "name": "swg-farstar-videojs",
+  "version": "1.0.0",
+  "description": "movie site using videojs for old Star Wars Galaxies player created movies",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "video.js": "^7.0.5",
+    "videojs-playlist-ui": "^3.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tagertswe/swg-farstar-videojs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tagertswe/swg-farstar-videojs/issues"
+  },
+  "homepage": "https://github.com/Tagertswe/swg-farstar-videojs#readme"
+}
